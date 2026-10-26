@@ -19,7 +19,7 @@ I am pursuing an **M.S. in Artificial Intelligence (Machine Learning concentrati
 | [RAGOps](https://github.com/xmike04/RAG_OPS) | FastAPI, PostgreSQL/pgvector, Redis, asynchronous ingestion, BM25 + all-MiniLM-L6-v2 retrieval, RRF, train-only cross-encoder evaluation, Prometheus/Grafana, React, reproducible SciFact benchmarks, and local-provider load testing |
 | [SIMLYFE](https://github.com/xmike04/SIMLYFE) | React, deterministic simulation, authenticated LLM integration, Firebase Auth/Firestore, Supabase Edge Functions, Vitest, Vercel |
 | [AI/ML portfolio](https://github.com/xmike04/xmike04.github.io) | Next.js, interactive in-browser ML demos, evidence-backed case studies, structured profile data, AI-search discoverability |
-| [Canvas Student MCP](https://github.com/xmike04/canvas-student-mcp) | Read-only Model Context Protocol tooling for Canvas LMS with session-cookie authentication and a TypeScript implementation |
+| [Canvas Student MCP (npm package)](https://www.npmjs.com/package/canvas-student-mcp) | Published TypeScript MCP integration for read-only Canvas LMS access; source repository is private, and user data remains sensitive |
 
 ## Core stack
 
