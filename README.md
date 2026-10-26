@@ -2,13 +2,13 @@
 
 I build applied AI systems at the point where machine learning meets a product people can test, evaluate, and use. My strongest evidence is in retrieval engineering and evaluation, real-time computer vision, LLM system boundaries, AI product evaluation, and cloud engineering.
 
-I am pursuing an **M.S. in Artificial Intelligence (Machine Learning concentration)** at the University of North Texas, expected **December 2027**, after earning a **B.S. in Computer Science** from UNT in May 2025. I am seeking **AI/ML and applied-AI internships and co-ops**.
+I am pursuing an **M.S. in Artificial Intelligence (Machine Learning concentration)** at the University of North Texas, expected **Summer 2027**, after earning a **B.S. in Computer Science** from UNT in May 2025. I am seeking **AI/ML and applied-AI internships and co-ops**.
 
 ## Evidence
 
 - **Retrieval engineering and evaluation:** Built [RAGOps](https://github.com/xmike04/RAG_OPS), a production-style RAG platform with FastAPI, PostgreSQL/pgvector, Redis-backed asynchronous ingestion, hybrid retrieval, optional reranking, Prometheus metrics, and a React operations console. On 5,183 SciFact documents and 300 held-out queries, RRF led the tested configurations with 0.8059 Recall@10 and 0.6816 nDCG@10. A reproducible local-provider load test recorded 24.56 ms p50 and 31.75 ms p95 over 9,234 successful requests. The small train-only cross-encoder was much slower and reduced held-out quality, so it is retained as a negative result rather than an improvement claim.
 - **AI product evaluation:** Worked as a Product Analyst Intern on Mr. Cooper Group's AI/ML team in 2025, supporting agentic-AI customer-service products through experimentation, user validation, feature evaluation, and cross-functional delivery.
-- **Computer vision leadership:** Led a five-person UNT capstone team building the NASA PACE **WAVE: From Space to Ocean** interactive exhibit with OpenCV, CUDA, Unity, C#, React, TypeScript, and ZED stereo cameras. The installation premiered at the Kennedy Center in Washington, D.C., in March 2025.
+- **Computer vision leadership:** As lead developer for a **UNT senior capstone (Fall 2024–May 2025)**, led a five-person student team building the NASA PACE **WAVE: From Space to Ocean** interactive exhibit. We met regularly with NASA PACE collaborators and coordinated with University of Maryland partners. The work used OpenCV, CUDA, Unity, C#, React, TypeScript, and ZED stereo cameras, and the installation premiered at the Kennedy Center in Washington, D.C., in March 2025.
 - **LLM systems:** Built and shipped [SIMLYFE](https://simlyfe.vercel.app), an AI-assisted life simulator that separates deterministic game logic from authenticated, schema-validated OpenAI event generation. The project includes 350+ automated test assertions.
 - **Cloud engineering:** Hold the **AWS Certified Machine Learning — Specialty** and **Google Cloud Certified Professional Cloud Architect** certifications.
 
